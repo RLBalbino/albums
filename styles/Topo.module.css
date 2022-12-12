@@ -1,0 +1,10 @@
+.topo{
+    padding-left: 200px;
+    font-size: 12px;
+    text-align: center;
+    background-color: crimson;
+    padding: 20px;
+    bottom: 100;
+    position: fixed;
+    width: 100%;
+}

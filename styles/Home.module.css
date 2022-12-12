@@ -1,0 +1,13 @@
+.album{
+  width: 110px;
+  height: 90px;
+  background-color: rgb(22, 21, 21);
+  font-size: 24px;
+text-align: center;
+color: aliceblue;
+  position:absolute;
+		left:50%;
+		top:50%;
+		margin-left:-80px;
+		margin-top:-110px;
+}
